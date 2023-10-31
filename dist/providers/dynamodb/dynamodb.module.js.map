@@ -1,0 +1,1 @@
+{"version":3,"file":"dynamodb.module.js","sourceRoot":"","sources":["../../../src/providers/dynamodb/dynamodb.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAgD;AAChD,yDAAqD;AAO9C,IAAM,cAAc,GAApB,MAAM,cAAc;CAAG,CAAA;AAAjB,cAAc;IAL1B,IAAA,eAAM,GAAE;IACR,IAAA,eAAM,EAAC;QACN,OAAO,EAAE,CAAC,kCAAe,CAAC;QAC1B,SAAS,EAAE,CAAC,kCAAe,CAAC;KAC7B,CAAC;GACW,cAAc,CAAG;AAAjB,wCAAc"}
